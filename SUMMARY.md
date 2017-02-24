@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [A4.3.1 第 1 节:标识](chapter1.md)
+* [介绍](README.md)
+* [第 1 节:标识](chapter1.md)
 * [2](2.md)
 * [3](3.md)
 * [4](4.md)
