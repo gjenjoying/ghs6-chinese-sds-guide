@@ -5,10 +5,7 @@
     "language": "zh-hans",
     "plugins": ["-search","search-pro","splitter","sharing","sectionx"],
     "pluginsConfig": {
-        "duoshuo": {
-            "short_name": "xixisys",
-             "theme": "default"
-        },
+        
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : [""]
